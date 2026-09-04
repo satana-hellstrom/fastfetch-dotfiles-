@@ -3,7 +3,7 @@
 
   "logo": {
     "type": "raw",
-    "source": "/data/data/io.vaj.tl/files/home/.config/fastfetch.sixel",
+    "source": "$HOME/.config/fastfetch/fastfetch.sixel",
     "width": 24,
     "height": 12,
     "padding": {

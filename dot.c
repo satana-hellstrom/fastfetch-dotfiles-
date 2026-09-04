@@ -36,7 +36,7 @@ int main(void)
     printf("Copying fastfetch.sixel...\n");
 
     snprintf(cmd, sizeof(cmd),
-             "cp fastfetch.sixel \"%s/.config/fastfetch.sixel\"",
+             "cp fastfetch.sixel \"%s/.config/fastfetch/fastfetch.sixel\"",
              home);
 
     if (system(cmd) != 0) {
