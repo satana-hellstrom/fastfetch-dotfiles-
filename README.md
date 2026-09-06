@@ -6,6 +6,8 @@
 
 ### Termux
 
+clone the repo btw then
+
 Install the required packages:
 
 ```bash
